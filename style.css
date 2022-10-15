@@ -1,0 +1,14 @@
+#body{
+    background-color: rgb(38, 74, 105);
+    background-attachment: fixed;
+}
+
+#button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 120px;
+    height: 70px;
+    margin-left: -50px;
+    margin-top: -50px;
+}
